@@ -8,3 +8,5 @@ An eGRU cell features 4 major optimizations on top of the popular GRU architectu
 4. **Integer Arithmetic**: eGRU networks are implemented entirely using Q15 integer arithmetic and are thus significantly faster on MCUs without FPUs.
 
 
+
+![eGRU Illustration](eGRU.png)
